@@ -1,4 +1,4 @@
-/* instructions:
+/* instructions: 
 For this exercise create a text file full of names called names.txt. Use the following list
 of names for data.
 
